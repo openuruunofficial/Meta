@@ -1,7 +1,7 @@
 # Mirror Info
 This is a mirror of https://foundry.openuru.org/hg/
 
-Mirror is synced nightly at 0:00 using the `America/Kentucky/Louisville` timezone(it's my local timezone, I'd use UTC but that's not possible with crontab :^) )
+Mirror is synced nightly.
 
 # Push requests
 Push requests are disabled, this is a read-only mirror. <br/>
