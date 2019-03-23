@@ -9,7 +9,10 @@ Please send all neat things to https://foundry.openuru.org/hg/
 
 # Contact
 This mirror is operated by [Félix](https://github.com/FelixWolf). <br/>
-You can contact me at `felix.wolfz@gmail.com` or https://softhyena.com/support?issue=openuru%20mirror
+You can contact me at:
+* Open a meta issue: https://github.com/openuruunofficial/Meta/issues **(PREFERRED)**
+* `felix.wolfz@gmail.com` **(Urgent/private issues should be sent here + Secondary preferred method)**
+* https://softhyena.com/support?issue=openuru%20mirror **(Possibly offline)**
 
 # Usage of update.sh and ini
 `ini` is a tool I made to manipulate ini files via shell. Place this in the same directory as `update.sh`.<br/>
