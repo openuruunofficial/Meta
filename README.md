@@ -11,7 +11,7 @@ Please send all neat things to https://foundry.openuru.org/hg/
 This mirror is operated by [Félix](https://github.com/FelixWolf). <br/>
 You can contact me at:
 * Open a meta issue: https://github.com/openuruunofficial/Meta/issues **(PREFERRED)**
-* `felix.wolfz@gmail.com` **(Urgent/private issues should be sent here + Secondary preferred method)**
+* `felix.wolfz (at) gmail.com` **(Urgent/private issues should be sent here + Secondary preferred method)**
 * https://softhyena.com/support?issue=openuru%20mirror **(Possibly offline)**
 
 # Usage of update.sh and ini
